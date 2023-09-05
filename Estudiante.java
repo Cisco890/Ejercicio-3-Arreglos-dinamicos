@@ -1,3 +1,9 @@
+/**
+  * Random
+ 
+  * @param id,nombre,carnet,fecha,correo
+  * @throws aca se le piden los datos al usuario
+  */
 public class Estudiante {
     private int id;
     private String nombre;

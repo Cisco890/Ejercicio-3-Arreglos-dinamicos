@@ -1,4 +1,9 @@
-import java.util.Arrays;
+/**
+  * Random
+ 
+  * @param notas,nombres
+  * @throws aca se hace el analisis estadistico de las notas por cede
+  */import java.util.Arrays;
 
 public class Cede {
     private String[] nombres; 

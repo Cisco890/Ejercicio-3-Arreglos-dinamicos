@@ -1,3 +1,9 @@
+/**
+  * Random
+ 
+  * @param Cursosid,nota,estudianteid
+  * @throws es donde se agrega la nota al estudiane
+  */
 public class Notas {
     private int estudianteid;
     private int cursoid;
